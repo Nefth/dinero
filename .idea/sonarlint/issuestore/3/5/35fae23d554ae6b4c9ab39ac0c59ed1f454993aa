@@ -1,0 +1,6 @@
+
+usquid:UselessImportCheck"GRemove this unused import 'org.hibernate.validator.constraints.Length'.(╩ЧЬк     8∙оязе,
+osquid:UselessImportCheck"ARemove this unused import 'javax.validation.constraints.NotNull'.(счеу№    8∙оязе,
+psquid:UselessImportCheck"BRemove this unused import 'javax.validation.constraints.NotBlank'.(╡уПЗ¤    8∙оязе,
+Лsquid:UselessImportCheck"]Remove this unused import 'org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder'.(х┼┌Е√    8∙оязе,
+Зsquid:UselessImportCheck"YRemove this unused import 'org.springframework.security.crypto.password.PasswordEncoder'.(Йб▀с     8∙оязе,
